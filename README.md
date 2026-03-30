@@ -9,10 +9,11 @@
 </div>
 
 <br>
+
 <div align="center">
   <h3> 🌐 Connect with me </h3>
   <a href="mailto:rumethjayasinghe123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/rumeth-jayasinghe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rumeth-jayasinghe-39828424b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <br>
@@ -52,7 +53,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rumethnadawa&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="rumethnadawa trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rumethnadawa&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="rumethnadawa trophies" />
   </a>
 </div>
 
@@ -60,20 +61,20 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumethnadawa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumethnadawa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rumethnadawa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumethnadawa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
 
 ### 📈 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumethnadawa&bg_color=0D1117&color=ff1493&line=00F0FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumethnadawa&bg_color=0D1117&color=ff1493&line=00F0FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
   <b>Profile Visitors</b><br>
-  <img src="https://profile-counter.glitch.me/rumethnadawa/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rumethnadawa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
