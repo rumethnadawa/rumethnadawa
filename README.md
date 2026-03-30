@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Header Banner" width="100%" />
   
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hey there, I'm Rumeth Jayasinghe! </h1>
   
@@ -9,7 +9,6 @@
 </div>
 
 <br>
-
 <div align="center">
   <h3> 🌐 Connect with me </h3>
   <a href="mailto:rumethjayasinghe123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
