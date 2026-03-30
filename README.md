@@ -19,19 +19,19 @@
 <br>
 
 ### 👨‍💻 About Me
-* 🎓 Computer Engineering undergraduate at General Sir John Kotelawala Defence University[cite: 29].
-* ☁️ Cloud & DevOps Intern with a strong foundation in cloud computing, networking, Linux systems, and DevOps fundamentals[cite: 2, 8].
-* 📜 Certified in AWS, OCI, Cisco, Aviatrix, and Linux Foundation programs[cite: 9].
-* 🤝 Active Volunteer in Tech, serving as Co-Chair for CAREER FAIR 2025 (BCS Student Chapter) and as an IEEE Student Member[cite: 2, 47, 48, 49, 52, 53].
-* 📚 Co-authored the research publication "Kansei Engineering-Based Smart Plate for Toddlers"[cite: 78].
+* 🎓 Computer Engineering undergraduate at General Sir John Kotelawala Defence University.
+* ☁️ Cloud & DevOps Intern with a strong foundation in cloud computing, networking, Linux systems, and DevOps fundamentals.
+* 📜 Certified in AWS, OCI, Cisco, Aviatrix, and Linux Foundation programs.
+* 🤝 Active Volunteer in Tech, serving as Co-Chair for CAREER FAIR 2025 (BCS Student Chapter) and as an IEEE Student Member.
+* 📚 Co-authored the research publication "Kansei Engineering-Based Smart Plate for Toddlers".
 
 <br>
 
 ### 🚀 Highlighted Projects
-* **RJ True Face - AI Facial Recognition Attendance System**: AI-based real-time attendance system with facial recognition, emotion detection, and optional voice authentication[cite: 13, 14]. Built using Python, OpenCV, TensorFlow/Keras, and Flask[cite: 15].
-* **Advanced Image Denoising System**: Deep learning-based image denoising application using a U-Net autoencoder[cite: 16, 17]. Developed with Python, TensorFlow/Keras, and OpenCV[cite: 18].
-* **AI-Powered Smart Fire Detection System**: Early fire risk prediction system using edge ML on ESP8266 with real-time cloud monitoring[cite: 19, 20]. Implemented using C++, IoT, and Firebase[cite: 21].
-* **Android TodoList Application**: Android task management app featuring MVVM architecture, local storage, and cloud synchronization[cite: 22, 23]. Created with Kotlin, Room DB, and Firebase[cite: 24].
+* **RJ True Face - AI Facial Recognition Attendance System**: AI-based real-time attendance system with facial recognition, emotion detection, and optional voice authentication. Built using Python, OpenCV, TensorFlow/Keras, and Flask.
+* **Advanced Image Denoising System**: Deep learning-based image denoising application using a U-Net autoencoder. Developed with Python, TensorFlow/Keras, and OpenCV.
+* **AI-Powered Smart Fire Detection System**: Early fire risk prediction system using edge ML on ESP8266 with real-time cloud monitoring. Implemented using C++, IoT, and Firebase.
+* **Android TodoList Application**: Android task management app featuring MVVM architecture, local storage, and cloud synchronization. Created with Kotlin, Room DB, and Firebase.
 
 <br>
 
