@@ -4,7 +4,7 @@
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hey there, I'm Rumeth Jayasinghe! </h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=IT+Enthusiast+%26+Computer+Engineering+Student;Former+Cloud+Engineer+Intern+%40+IFS;Passionate+about+HPC%2C+xv6%2C+%26+Robotics;Building+AI-Powered+Systems!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Intern;Computer+Engineering+Undergrad;Volunteer+in+Tech;Building+AI-Powered+Systems!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,32 +12,39 @@
 
 <div align="center">
   <h3> 🌐 Connect with me </h3>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rumethjayasinghe123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rumeth-jayasinghe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <br>
 
 ### 👨‍💻 About Me
-* 🎓 Computer Engineering student at the **Faculty of Computing, Kotelawala Defence University (KDU)**, Sri Lanka.
-* 💼 Previously a **Cloud Engineer Intern** at **IFS**.
-* 🔭 Currently exploring **High-Performance Computing (HPC)**, **Operating Systems (xv6 system calls)**, and **Digital Logic (T-Flip Flops)**.
-* 🌱 Highly interested in **Robotics, Automation, Project Management**, and the physics of **Electromagnetism**.
-* 🔥 Recently built an **AI-Powered Smart Fire Detection System** alongside Ravindu Dilshan and Tharusha Kalhara.
-* 🤝 Open to collaborating on innovative AI and hardware-software integration projects.
+* 🎓 Computer Engineering undergraduate at General Sir John Kotelawala Defence University[cite: 29].
+* ☁️ Cloud & DevOps Intern with a strong foundation in cloud computing, networking, Linux systems, and DevOps fundamentals[cite: 2, 8].
+* 📜 Certified in AWS, OCI, Cisco, Aviatrix, and Linux Foundation programs[cite: 9].
+* 🤝 Active Volunteer in Tech, serving as Co-Chair for CAREER FAIR 2025 (BCS Student Chapter) and as an IEEE Student Member[cite: 2, 47, 48, 49, 52, 53].
+* 📚 Co-authored the research publication "Kansei Engineering-Based Smart Plate for Toddlers"[cite: 78].
+
+<br>
+
+### 🚀 Highlighted Projects
+* **RJ True Face - AI Facial Recognition Attendance System**: AI-based real-time attendance system with facial recognition, emotion detection, and optional voice authentication[cite: 13, 14]. Built using Python, OpenCV, TensorFlow/Keras, and Flask[cite: 15].
+* **Advanced Image Denoising System**: Deep learning-based image denoising application using a U-Net autoencoder[cite: 16, 17]. Developed with Python, TensorFlow/Keras, and OpenCV[cite: 18].
+* **AI-Powered Smart Fire Detection System**: Early fire risk prediction system using edge ML on ESP8266 with real-time cloud monitoring[cite: 19, 20]. Implemented using C++, IoT, and Firebase[cite: 21].
+* **Android TodoList Application**: Android task management app featuring MVVM architecture, local storage, and cloud synchronization[cite: 22, 23]. Created with Kotlin, Room DB, and Firebase[cite: 24].
 
 <br>
 
 ### 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
@@ -63,15 +70,6 @@
 ### 📈 GitHub Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumethnadawa&bg_color=0D1117&color=ff1493&line=00F0FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
-<br>
-
-### 🐍 Contribution Snake & 3D Calendar 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rumethnadawa/rumethnadawa/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Commits" width="100%" />
-  <br>
-  <img src="https://raw.githubusercontent.com/rumethnadawa/rumethnadawa/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br>
